@@ -28,3 +28,5 @@ The output file is finalproject_usergiveName_moivelen/finalOutput
 To run the case 3:
 cd finalproject_usergiveName_moivelen
 ./first.sh
+
+The data file has been removed from the conf and input folder under finalproject_usergiveName/configuration/conf because it is over the limite of github.
